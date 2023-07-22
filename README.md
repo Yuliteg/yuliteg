@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">I'm an enthusiastic React developer, and I love creating web applications that enhance user experiences.</h3>
 
-- Hi, I'm currently work on [Portfolio](https://github.com/Yuliteg/portfolio)
+- Hi, I'm currently working on [Portfolio](https://github.com/Yuliteg/portfolio)
 
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React, Typescript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Yuliteg?tab=repositories](https://github.com/Yuliteg?tab=repositories)
+
+- 📫 How to reach me **yulia.fedchenko1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
