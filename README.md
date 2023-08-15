@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuliteg?tab=repositories](https://github.com/Yuliteg?tab=repositories)
 
-- 📫 How to reach me **yulia.fedchenko1@gmail.com**
+- 📫 How to reach me **yulia.fedchenko.y@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
