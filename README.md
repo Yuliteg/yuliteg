@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">I'm an enthusiastic React developer who loves creating web applications that enhance user experiences.</h3>
 
-- ⭐ Hi, I'm currently working on [Portfolio](https://github.com/Yuliteg/portfolio)
+- ⭐ Working on [Portfolio](https://github.com/Yuliteg/portfolio)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 Learning **Next js**
 
 - 💬 Ask me about **React, Typescript**
 
