@@ -3,8 +3,6 @@
 
 - ⭐ Working on [Portfolio](https://github.com/Yuliteg/portfolio)
 
-- 🌱 Learning **Next js**
-
 - 💬 Ask me about **React, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuliteg?tab=repositories](https://github.com/Yuliteg?tab=repositories)
